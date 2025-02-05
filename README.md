@@ -1,4 +1,4 @@
-# PPost-OCR Correction of Historical German Periodicals using LLMs
+# Post-OCR Correction of Historical German Periodicals using LLMs
 
 This repository contains the scripts used for the paper **"Post-OCR Correction of Historical German Periodicals using LLMs"** (Danilova & Aangenendt, 2025), accepted at the RESOURCEFUL workshop of NoDaLiDa-2025. The csv files with the evaluation results will be uploaded here soon.
 
